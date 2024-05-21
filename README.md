@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Welcome to my GitHub profile! I'm a software developer with a passion for building amazing applications and learning new technologies.
+I've already worked as a part of Microsoft's Viva Goals, now looking forward for some new challenges in the Software Industry.
 
 ## 🛠️ Skills
 
@@ -10,7 +11,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for buildi
 
 ## Contact Info 🤙
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: email: yashjpsoni264@gmail.com LinkedIn: https://www.linkedin.com/in/ysoni264/
+- 📫 How to reach me: Gmail: yashjpsoni264@gmail.com, LinkedIn: https://www.linkedin.com/in/ysoni264/
 <!--
 **Yash-Soni/Yash-Soni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
