@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for buildi
 - **Frameworks**: ReactJS
 - **Tools**: Git, Docker, VS Code
 
+## Contact Info 🤙
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: email: yashjpsoni264@gmail.com LinkedIn: https://www.linkedin.com/in/ysoni264/
 <!--
