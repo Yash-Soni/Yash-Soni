@@ -5,7 +5,7 @@ I've already worked as a part of Microsoft's Viva Goals, now looking forward for
 
 ## 🛠️ Skills [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,jest,materialui,)](https://skillicons.dev)
 
-- **Tools**: [![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode)](https://skillicons.dev)
+- **Tools**: [![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,ubuntu,windows)](https://skillicons.dev)
 
 ## Contact Info 🤙
 - 😄 Pronouns: He/Him
