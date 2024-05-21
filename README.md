@@ -2,6 +2,13 @@
 
 Welcome to my GitHub profile! I'm a software developer with a passion for building amazing applications and learning new technologies.
 
+## 🛠️ Skills
+
+- **Languages**: JavaScript, 
+- **Frameworks**: ReactJS
+- **Tools**: Git, Docker, VS Code
+
+- 😄 Pronouns: He/Him
 - 📫 How to reach me: email: yashjpsoni264@gmail.com LinkedIn: https://www.linkedin.com/in/ysoni264/
 <!--
 **Yash-Soni/Yash-Soni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
