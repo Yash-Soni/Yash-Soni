@@ -3,14 +3,19 @@
 Welcome to my GitHub profile! I'm a software developer with a passion for building amazing applications and learning new technologies.
 I've already worked as a part of Microsoft's Viva Goals, now looking forward for some new challenges in the Software Industry.
 
-## 🛠️ Skills 
+## 🧠 Skills 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,jest,materialui" />
   </a>
 </p>
 
-- **Tools**: [![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,ubuntu,windows)](https://skillicons.dev)
+## 🛠️ Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,ubuntu,windows" />
+  </a>
+</p>
 
 ## Contact Info 🤙
 - 😄 Pronouns: He/Him
