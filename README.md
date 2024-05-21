@@ -4,14 +4,16 @@ Welcome to my GitHub profile! I'm a software developer with a passion for buildi
 I've already worked as a part of Microsoft's Viva Goals, now looking forward for some new challenges in the Software Industry.
 
 ## 🛠️ Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
-- **Languages**: JavaScript, 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,jest)](https://skillicons.dev)
+- **Languages**: JavaScript
 - **Frameworks**: ReactJS
-- **Tools**: Git, Docker, VS Code
+- **Tools**: [![My Skills](https://skillicons.dev/icons?i=git,docker,vscode)](https://skillicons.dev)
 
 ## Contact Info 🤙
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: Gmail: yashjpsoni264@gmail.com, LinkedIn: https://www.linkedin.com/in/ysoni264/
+- 📫 How to reach me: 
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev): yashjpsoni264@gmail.com
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev): https://www.linkedin.com/in/ysoni264/
 <!--
 **Yash-Soni/Yash-Soni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
