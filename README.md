@@ -6,7 +6,7 @@ I've already worked as a part of Microsoft's Viva Goals, now looking forward for
 ## 🧠 Skills 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,jest,materialui" />
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,jest,materialui" />
   </a>
 </p>
 
