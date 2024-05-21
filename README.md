@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for buildi
 I've already worked as a part of Microsoft's Viva Goals, now looking forward for some new challenges in the Software Industry.
 
 ## 🛠️ Skills
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 - **Languages**: JavaScript, 
 - **Frameworks**: ReactJS
 - **Tools**: Git, Docker, VS Code
